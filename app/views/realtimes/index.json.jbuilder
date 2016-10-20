@@ -1,0 +1,1 @@
+json.array! @realtimes, partial: 'realtimes/realtime', as: :realtime

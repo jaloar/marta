@@ -1,0 +1,1 @@
+json.partial! "realtimes/realtime", realtime: @realtime
